@@ -33,7 +33,7 @@
 </section>
 
 
-<div class ="heading" style="background:url(images/heading-img-1.jpg) no-repeat">
+<div class ="heading" style="background:url(images/heading-img-11.jpg) no-repeat">
     <h1>about us</h1>
 </div>
 
