@@ -142,9 +142,11 @@ section{
     display: block;
     font-size: 2.2rem;
     /* color: var(--light-white); */
-    color: var(--black);
+    /* color: var(--black); */
+    color: var(--light-color, #141313);
     padding-bottom: 1rem;
     animation:fadeIn .4s linear backwards .2s;
+    font-weight: bold;
 }
 
 .home .slide .content h3{
