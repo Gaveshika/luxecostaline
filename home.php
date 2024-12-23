@@ -121,7 +121,7 @@
 
     <!--home packages section starts -->
     <section class= "home-packages">
-        <h1 class="heading"> our pakages </h1>
+        <h1 class="heading-title"> our packages </h1>
 
         <div class= "box-container">
             <div class = "box">
@@ -156,10 +156,21 @@
                     <a href= "book.php" class="btn">book now</a>
                 </div>
             </div>
-
+            </div>
         <div class="load-more"><a href="package.php" class="btn">load more</a></div>
+        
     </section>
     <!--home packages section ends -->
+
+    <!--home offer section starts -->
+    <section class="home-offer">
+        <div class="content">
+            <h3>upto 50% offer</h3>
+            <p>Explore Galle’s wonders with up to 50% off on exclusive tours—history, culture, and beauty await at unbeatable prices!</p>
+            <a href="book.php" class="btn">book now</a>
+        </div>
+    </section>
+    <!--home offer section ends -->
 
     <!--footer section starts -->
     <section class="footer">
