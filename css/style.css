@@ -163,6 +163,67 @@ section{
     animation:fadeIn .4s linear backwards .6s;
 }
 
+.home .swiper-button-next,
+.home .swiper-button-prev{
+    top : inherit;
+    left: inherit;
+    bottom: 0;
+    right: 0;
+    height: 7rem;
+    width: 7rem;
+    background : var(--white);
+    color: var(--black);
+}
+
+.home .swiper-button-next:hover,
+.home .swiper-button-prev:hover{
+    background: var(--main-color);
+    color:var(--white);
+}
+
+.home .swiper-button-next::after,
+.home .swiper-button-prev::after{
+    font-size: 2rem;
+}
+
+.home .swiper-button-prev{
+    right:7rem;
+}
+
+.home-about{
+    display:flex;
+    align-items:center;
+    flex-wrap: wrap;
+}
+
+.home-about .image{
+    flex:1 1 41rem;
+}
+
+
+.home-about .image img{
+    width: 100%;
+}
+
+
+.home-about .content{
+    flex:1 1 41rem;
+    padding: 3rem;
+    background: var(--light-black);
+}
+
+.home-about .content h3{
+    font-size:3rem;
+    color:var(--black);
+}
+
+.home-about .content p{
+    font-size:1.5rem;
+    padding: 1rem 0;
+    line-height: 2;
+    color:var(--black);
+}
+
 .services .box-container{
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(16rem, 1fr));
@@ -304,6 +365,10 @@ section{
 
     .heading-title{
         font-size:3.5rem ;
+    }
+
+    .home .slide .content h3{
+        font-size: 10vw;
     }
    
 }
