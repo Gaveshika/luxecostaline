@@ -113,13 +113,53 @@
         <div class="content">
             <h3>about us</h3>
             <p>Welcome to our travel and tour website, your dedicated guide to uncovering the timeless charm of Galle, Sri Lanka! Nestled on the southern coast of this tropical island, Galle is a city steeped in history, culture, and natural beauty. From its iconic Dutch Fort, a UNESCO World Heritage Site, to its sun-kissed beaches and vibrant local markets, Galle offers a treasure trove of experiences for every traveler.
-
-               
-</p>
+            </p>
             <a href="about.php" class="btn">read more</a>
         </div>
     </section>
     <!--home about section ends -->
+
+    <!--home packages section starts -->
+    <section class= "home-packages">
+        <h1 class="heading"> our pakages </h1>
+
+        <div class= "box-container">
+            <div class = "box">
+                <div class= "image">
+                    <img src="images/img-1.jpg" alt="">
+                </div>
+                <div class="content">
+                    <h3>adventure & tour</h3>
+                    <p>Embark on unforgettable adventures and tours in Galle, where history, culture, and natural beauty come together to create the ultimate travel experience.</p>
+                    <a href= "book.php" class="btn">book now</a>
+                </div>
+            </div>
+
+            <div class = "box">
+                <div class= "image">
+                    <img src="images/img-2.jpg" alt="">
+                </div>
+                <div class="content">
+                    <h3>adventure & tour</h3>
+                    <p>Embark on unforgettable adventures and tours in Galle, where history, culture, and natural beauty come together to create the ultimate travel experience.</p>
+                    <a href= "book.php" class="btn">book now</a>
+                </div>
+            </div>
+
+            <div class = "box">
+                <div class= "image">
+                    <img src="images/img-3.jpg" alt="">
+                </div>
+                <div class="content">
+                    <h3>adventure & tour</h3>
+                    <p>Embark on unforgettable adventures and tours in Galle, where history, culture, and natural beauty come together to create the ultimate travel experience.</p>
+                    <a href= "book.php" class="btn">book now</a>
+                </div>
+            </div>
+
+        <div class="load-more"><a href="package.php" class="btn">load more</a></div>
+    </section>
+    <!--home packages section ends -->
 
     <!--footer section starts -->
     <section class="footer">
