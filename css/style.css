@@ -119,6 +119,7 @@ section{
     padding: 0;
 }
 
+
 .home .slide{
     text-align: center;
     padding: 2rem;
@@ -299,6 +300,64 @@ section{
 
 }
 
+.about{
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    gap:3rem;    
+}
+
+.about .image{
+    flex: 1 1 41rem;
+}
+
+.about .image img{
+    width: 100%;
+}
+
+.about .content{
+    flex: 1 1 41rem;
+    text-align: center;
+}
+
+.about .content h1{
+    font-size: 3rem;
+    color:var(--black);
+}
+
+.about .content p{
+    font-size: 1.5em;
+    color:var(--light-black);
+    line-height: 2;
+    padding: 1rem 0;
+}
+
+.about .content .icons-container{
+    margin-top: 2rem;
+    display:flex;
+    flex-wrap: wrap;
+    gap: 1.5rem;
+    align-items: flex-end;
+}
+
+.about .content .icons-container .icons{
+    background: var(--light-bg);
+    padding: 2rem;
+    flex:1 1 16rem;
+}
+
+.about .content .icons-container .icons i{
+    font-size: 4rem;
+    margin-bottom: 2rem;
+    color:var(--main-color);
+}
+
+.about .content .icons-container .icons span{
+    font-size: 1.3rem;
+    color: var(--light-black);
+    display:block;
+}
+
 .services .box-container{
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(16rem, 1fr));
@@ -375,6 +434,23 @@ section{
 
 .footer .credit span{
     color: var(--main-color);
+}
+
+.heading{
+    background-size: cover !important;
+    background-position: center !important;
+    padding-top: 10rem;
+    padding-bottom: 15rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.heading h1{
+    font-size: 10rem;
+    text-transform: uppercase;
+    color: var(--white);
+    text-shadow: var(--text-shadow);
 }
 
 /* media queries */
