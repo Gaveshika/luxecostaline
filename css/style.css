@@ -63,6 +63,7 @@ section{
     font-size: 1.7rem ;
     padding : 1rem 3rem;
     cursor: pointer;
+    margin-bottom: 10px;
 }
 
 .btn:hover {
@@ -222,6 +223,52 @@ section{
     padding: 1rem 0;
     line-height: 2;
     color:var(--black);
+}
+
+.home-packages{
+    background: var(--light-bg);
+}
+.home-packages .box-container .box {
+    border: var(--border);
+    box-shadow: var(--box-shadow);
+    background: var(--white);
+}
+
+.home-packages .box-container{
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(30rem, 1fr));
+    gap: 2rem;
+    color:var(--white);
+    text-align:center;
+}
+
+.home-packages .box-container .box .image{
+    height: 25rem;
+    overflow: hidden;
+}
+
+.home-packages .box-container .box .image img{
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+    transition: .2s linear;    
+}
+
+.home-packages .box-container.box .content{
+    padding: 2rem;
+    text-align:center;
+}
+.home-packages .box-container .box .content h3{
+    font-size: 2.5rem;
+    color: var(--black);
+}
+
+.home-packages .box-container .box .content p{
+    font-size: 1.5rem;
+    color: var(--black);
+    line-height: 2;
+    padding: 1rem 0;
+    text-align:center;
 }
 
 .services .box-container{
