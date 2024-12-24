@@ -62,6 +62,108 @@
 </div>
 </section>
 <!-- about section ends -->
+<!-- review section starts -->
+<section class= "reviews">
+    <h1 class="heading-title"> client reviews</h1>
+    <div class="swiper reviews-slider">
+        <div class="swiper-wrapper">
+            <div class="swiper-slide slide">
+                <div class="stars">
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                </div>
+                <p>
+                This site made exploring Galle so easy and enjoyable! From booking tours to discovering hidden gems, everything was seamless. Highly recommend for anyone visiting this beautiful city!
+                </p>
+                <h3>Kate Willionson</h3>
+                <span>traveler</span>
+                <img src="images/pic-1.png" alt="">
+            </div>
+        
+
+       
+            <div class="swiper-slide slide">
+                <div class="stars">
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                </div>
+                <p>
+                An exceptional platform for exploring Galle! The tours were well-organized, and the recommendations truly captured the essence of this stunning coastal city.
+                </p>
+                <h3>Emy Lora</h3>
+                <span>traveler</span>
+                <img src="images/pic-2.png" alt="">
+            </div>
+
+            <div class="swiper-slide slide">
+                <div class="stars">
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                </div>
+                <p>
+                A fantastic website for planning your Galle adventure! Easy to use with amazing tour options that showcase the city's true charm
+                </p>
+                <h3>Richard Hatzan</h3>
+                <span>traveler</span>
+                <img src="images/pic-3.png" alt="">
+            </div>
+
+            <div class="swiper-slide slide">
+                <div class="stars">
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                </div>
+                <p>
+                Highly impressed with the seamless booking process and knowledgeable guides. Galle’s beauty was truly brought to life!
+                </p>
+                <h3>Ryne Wogson</h3>
+                <span>traveler</span>
+                <img src="images/pic-4.png" alt="">
+            </div>
+
+            <div class="swiper-slide slide">
+                <div class="stars">
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                </div>
+                <p>
+                This site made our trip unforgettable! Excellent recommendations, friendly service, and a wonderful way to explore Galle.
+                </p>
+                <h3>Henry John</h3>
+                <span>traveler</span>
+                <img src="images/pic-5.png" alt="">
+            </div>
+        
+        
+            <div class="swiper-slide slide">
+                <div class="stars">
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                    <i class="fas fa-star"></i>
+                </div>
+                <p>
+                Perfect for discovering the best of Galle! Great service, personalized tours, and a fantastic way to experience the city’s history and beauty.
+                </p>
+                <h3>Maya Wellington</h3>
+                <span>traveler</span>
+                <img src="images/pic-6.png" alt="">
+            </div>
+        </div>
+       
+
+    </div>
+</section>
+
+<!-- review section ends -->
 
     <!-- swiper js link -->
     <script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
