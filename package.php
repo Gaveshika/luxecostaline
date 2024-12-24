@@ -44,6 +44,147 @@
     <script src="js/script.js"></script>
 </body>
 
+<!--packages section starts -->
+<section class="packages">
+    <h1 class="heading-title">top destinations</h1>
+    <div class="box-container">
+        <div class="box">
+            <div class="image">
+               <img src="images/imag-01.jpg" alt=""> 
+            </div>
+            <div class="content">
+                <h3>adventure & tour</h3>
+                <p>Discover thrilling adventures and captivating tours that bring Galle’s beauty and history to life!</p>
+                <a href="book.php" class="btn">book now</a>
+            </div>
+        </div>
+
+        <div class="box">
+            <div class="image">
+               <img src="images/imag-02.jpg" alt=""> 
+            </div>
+            <div class="content">
+                <h3>adventure & tour</h3>
+                <p>Discover thrilling adventures and captivating tours that bring Galle’s beauty and history to life!</p>
+                <a href="book.php" class="btn">book now</a>
+            </div>
+        </div>
+
+        <div class="box">
+            <div class="image">
+               <img src="images/imag-003.jpg" alt=""> 
+            </div>
+            <div class="content">
+                <h3>adventure & tour</h3>
+                <p>Discover thrilling adventures and captivating tours that bring Galle’s beauty and history to life!</p>
+                <a href="book.php" class="btn">book now</a>
+            </div>
+        </div>
+
+        <div class="box">
+            <div class="image">
+               <img src="images/img-4.jpg" alt=""> 
+            </div>
+            <div class="content">
+                <h3>adventure & tour</h3>
+                <p>Discover thrilling adventures and captivating tours that bring Galle’s beauty and history to life!</p>
+                <a href="book.php" class="btn">book now</a>
+            </div>
+        </div>
+
+        <div class="box">
+            <div class="image">
+               <img src="images/img-5.jpg" alt=""> 
+            </div>
+            <div class="content">
+                <h3>adventure & tour</h3>
+                <p>Discover thrilling adventures and captivating tours that bring Galle’s beauty and history to life!</p>
+                <a href="book.php" class="btn">book now</a>
+            </div>
+        </div>
+
+        <div class="box">
+            <div class="image">
+               <img src="images/img-6.jpg" alt=""> 
+            </div>
+            <div class="content">
+                <h3>adventure & tour</h3>
+                <p>Discover thrilling adventures and captivating tours that bring Galle’s beauty and history to life!</p>
+                <a href="book.php" class="btn">book now</a>
+            </div>
+        </div>
+
+        <div class="box">
+            <div class="image">
+               <img src="images/img-7.jpg" alt=""> 
+            </div>
+            <div class="content">
+                <h3>adventure & tour</h3>
+                <p>Discover thrilling adventures and captivating tours that bring Galle’s beauty and history to life!</p>
+                <a href="book.php" class="btn">book now</a>
+            </div>
+        </div>
+
+        <div class="box">
+            <div class="image">
+               <img src="images/img-8.jpg" alt=""> 
+            </div>
+            <div class="content">
+                <h3>adventure & tour</h3>
+                <p>Discover thrilling adventures and captivating tours that bring Galle’s beauty and history to life!</p>
+                <a href="book.php" class="btn">book now</a>
+            </div>
+        </div>
+
+        <div class="box">
+            <div class="image">
+               <img src="images/img-9.jpg" alt=""> 
+            </div>
+            <div class="content">
+                <h3>adventure & tour</h3>
+                <p>Discover thrilling adventures and captivating tours that bring Galle’s beauty and history to life!</p>
+                <a href="book.php" class="btn">book now</a>
+            </div>
+        </div>
+
+        <div class="box">
+            <div class="image">
+               <img src="images/img-10.jpg" alt=""> 
+            </div>
+            <div class="content">
+                <h3>adventure & tour</h3>
+                <p>Discover thrilling adventures and captivating tours that bring Galle’s beauty and history to life!</p>
+                <a href="book.php" class="btn">book now</a>
+            </div>
+        </div>
+
+        <div class="box">
+            <div class="image">
+               <img src="images/img-11.jpg" alt=""> 
+            </div>
+            <div class="content">
+                <h3>adventure & tour</h3>
+                <p>Discover thrilling adventures and captivating tours that bring Galle’s beauty and history to life!</p>
+                <a href="book.php" class="btn">book now</a>
+            </div>
+        </div>
+
+        <div class="box">
+            <div class="image">
+               <img src="images/img-12.jpg" alt=""> 
+            </div>
+            <div class="content">
+                <h3>adventure & tour</h3>
+                <p>Discover thrilling adventures and captivating tours that bring Galle’s beauty and history to life!</p>
+                <a href="book.php" class="btn">book now</a>
+            </div>
+        </div>
+    </div>
+    <div class="load-more"><span class="btn">load more</span></div>
+</section>
+<!--packages section ends -->
+
+
 <!--footer section starts -->
 <section class= "footer">
     <div class="box-container">
